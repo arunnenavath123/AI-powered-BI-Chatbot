@@ -1,5 +1,4 @@
-# AI-Powered BI Chatbot
-
+# AI-Driven Data Analytics Chatbot
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\
 [![strealit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
@@ -65,7 +64,7 @@ Once the Streamlit application is running, open it in your browser to play and t
 ### Reflections
 
 1. This time, AI is really eating the world.
-2. The LLM is fundamentally changing the way people develop applications. Just take a look at [pandas-ai](https://github.com/gventuri/pandas-ai).
+2. The LLM is fundamentally changing the way people develop applications. 
 3. Presenting meaningful work is more important than ever.
 
 ## 🍻 Contributing
